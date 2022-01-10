@@ -1,4 +1,4 @@
-# Online Bipartite Matching
+# Online Bipartite Matching Instances
 
 Denote a bipartite graph by G = (N,V,E) where E is the subset of edges in N × V and n = |N| = |V|. This project contains the instances used in [1]:
 
